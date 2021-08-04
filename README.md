@@ -1,4 +1,13 @@
-### Hi there 👋
+### Fancy meeting you here! 👋
+
+
+I'm a happy/quite/dad engineer �
+
+I like to 🎮 ⚽️ 🏃‍♂️ 🚴‍♂️ 📚 🎹 🚀 😄
+
+You can checkout my [LinkedIn](https://www.linkedin.com/in/developerium/) profile for more info about my professional side
+
+See you later, alligator!
 
 <!--
 **developerium/developerium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
