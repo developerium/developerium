@@ -1,11 +1,5 @@
 ### Fancy meeting you here! 👋
-
-
-I'm a happy/quite/dad engineer �
-
-I like to 🎮 ⚽️ 🏃‍♂️ 🚴‍♂️ 📚 🎹 🚀 😄
-
-You can checkout my [LinkedIn](https://www.linkedin.com/in/developerium/) profile for more info about my professional side
+My personal [website](https://developerium.com)
 
 See you later, alligator!
 
