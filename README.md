@@ -1,7 +1,7 @@
-### Fancy meeting you here! 👋
-My personal [website](https://kheradmand.de)
+### Ahoy, stealth mode engaged! What's the latest code adventure?
+Discover more on my [website](https://kheradmand.de)
 
-See you later, alligator!
+Until next commit!
 
 <!--
 **developerium/developerium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
